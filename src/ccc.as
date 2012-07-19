@@ -6,7 +6,8 @@ package
 	{
 		public function ccc()
 		{
-			
+			//제발좀 되라 제길
+			trace("break!!");
 		}
 	}
 }
